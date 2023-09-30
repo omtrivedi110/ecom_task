@@ -1,16 +1,4 @@
-# ecom_task
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/omtrivedi110/ecom_task/assets/131134704/d22ef1c9-83b4-4cd2-8855-10ab4f1f0009
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
