@@ -1,5 +1,4 @@
 import 'dart:developer';
-
 import 'package:ecom_task/helpers/cart_helper.dart';
 import 'package:ecom_task/modals/cart_modals.dart';
 import 'package:get/get.dart';
@@ -53,13 +52,19 @@ class CartController extends GetxController {
   }
 
   sortingAZ() {
-    allProducts
-        .sort((a, b) => a.title.toLowerCase().compareTo(b.title.toLowerCase()));
+    allProducts.sort(
+      (a, b) => a.title.toLowerCase().compareTo(
+            b.title.toLowerCase(),
+          ),
+    );
   }
 
   sortingZA() {
-    allProducts
-        .sort((a, b) => b.title.toLowerCase().compareTo(a.title.toLowerCase()));
+    allProducts.sort(
+      (a, b) => b.title.toLowerCase().compareTo(
+            a.title.toLowerCase(),
+          ),
+    );
   }
 
   sortCategoryAZ() {
